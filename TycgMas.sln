@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TycgMas", "TycgMas\TycgMas.csproj", "{40C7BA5A-2A1F-468B-BBD9-06BA03D68F61}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "TycgMasDB", "TycgMasDB\TycgMasDB.sqlproj", "{2945337B-12A3-443E-BDFB-62C602CB3537}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40C7BA5A-2A1F-468B-BBD9-06BA03D68F61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40C7BA5A-2A1F-468B-BBD9-06BA03D68F61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40C7BA5A-2A1F-468B-BBD9-06BA03D68F61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40C7BA5A-2A1F-468B-BBD9-06BA03D68F61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2945337B-12A3-443E-BDFB-62C602CB3537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2945337B-12A3-443E-BDFB-62C602CB3537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2945337B-12A3-443E-BDFB-62C602CB3537}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2945337B-12A3-443E-BDFB-62C602CB3537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2945337B-12A3-443E-BDFB-62C602CB3537}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2945337B-12A3-443E-BDFB-62C602CB3537}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B238B01-62EF-461D-8F05-AD24D008BE35}
+	EndGlobalSection
+EndGlobal
